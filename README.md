@@ -2,7 +2,7 @@
 
 ## Overview
 The intention of this lab was to learn.  I succeeded in learning that Dart
-is more than a 5 hour crash course.  The success of this exercise were as follows:
+is more than a 5 hour crash course.  The success of this exercise was as follows:
 1. Reviewed Benefits of Dart- most language benefits have now been put into Javascript
    so the this is not as much of a benefit as it once was.  one of the major benefits were
    the ability for Classes, which have since been added.
@@ -10,6 +10,8 @@ is more than a 5 hour crash course.  The success of this exercise were as follow
    https://www.youtube.com/playlist?list=PLOU2XLYxmsILKY-A1kq4eHMcku3GMAyp2
 
 2. Reviewed Overview of Language
+    https://www.dartlang.org/guides/language/language-tour
+
 3. Able to run samples using DartPad application
   https://dartpad.dartlang.org/
 4. After running dartpad I wanted to install files and run on laptop.  I was not s
