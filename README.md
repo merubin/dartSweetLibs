@@ -33,7 +33,7 @@ is more than a 5 hour crash course.  The success of this exercise were as follow
   - Who is maintaining it?
     Google and other companies have been using Dart for years. The SDK alone has hundreds of commits each month, and a new release every 6 weeks. Through all the activity, the API stays stable.
 9. What is your opinion on the technology after having built something with it?
-  I like the syntax of the language.  Very much like C.  
+  I like the syntax of the language.  Very much like C with added jQuery for DOM changes.  
 10. What are the biggest conceptual hurdles (if any) you encountered when researching this?
   Need more time to evaluate how to develop in IDE like WebStorm.  Google has removed its own
   IDE editor, which originally I thought I would be using.
