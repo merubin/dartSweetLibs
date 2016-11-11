@@ -28,7 +28,7 @@ is more than a 5 hour crash course.  The success of this exercise were as follow
 
 8. What is the history of this technology?
   Dart was unveiled at the GOTO conference in Aarhus, Denmark, October 10–12, 2011. The project was founded by Lars Bak and Kasper Lund.
-  - Who built it and why?  Google built it to address its issues with building large WebStorm
+  - Who built it and why?  Google built it to address its issues with building large
     web apps like gmail and google docs.
   - Who is maintaining it?
     Google and other companies have been using Dart for years. The SDK alone has hundreds of commits each month, and a new release every 6 weeks. Through all the activity, the API stays stable.
